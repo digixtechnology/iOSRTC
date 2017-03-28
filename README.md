@@ -1,5 +1,9 @@
 # iOSRTC
-Convert code from AndroidRTC for iOS (Objective-C) platform. 
+Convert code from AndroidRTC for iOS (Objective-C) platform. You must use iOSRTC with ProjectRTC.
 
-Original WebRTC github:
+Original WebRTC Server:
 https://github.com/pchab/ProjectRTC
+
+We implement ViewController Code from AppRTC:
+https://github.com/ISBX/apprtc-ios
+
