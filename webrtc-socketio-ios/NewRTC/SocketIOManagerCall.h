@@ -10,7 +10,7 @@
 
 @import SocketIO;
 
-static NSString * const socketIOURL = @"https://fullteams.azurewebsites.net/";
+static NSString * const socketIOURL = @"http://localhost:3000";
 
 @interface SocketIOManagerCall : NSObject
 
