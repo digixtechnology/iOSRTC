@@ -387,14 +387,7 @@
                                                  name:@"UIDeviceOrientationDidChangeNotification"
                                                object:nil];
     
-    [[NSNotificationCenter defaultCenter] addObserver:self
-                                             selector:@selector(closeVideoChatViewWhenCallingTimeUp:)
-                                                 name:@"closeVideoChatViewWhenCallingTimeUp" object:nil];
-    
-    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(countChatTime) name:@"onVideoAnswer" object:nil];
-    
-    
-    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(onPeerConnectedWithNotification:) name:@"onPeerConnected" object:nil];
+  
 }
 
 - (void)orientationChanged:(NSNotification *)notification{
