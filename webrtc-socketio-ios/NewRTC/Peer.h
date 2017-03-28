@@ -18,7 +18,7 @@
 @property (nonatomic) NSString *ID;
 @property (nonatomic) NSInteger endPoint;
 
-@property (nonatomic) WebRTCClient *webRTCClient;
+@property (nonatomic, weak) WebRTCClient *webRTCClient;
 
 @property (nonatomic) RTCAudioTrack *defaultAudioTrack;
 
