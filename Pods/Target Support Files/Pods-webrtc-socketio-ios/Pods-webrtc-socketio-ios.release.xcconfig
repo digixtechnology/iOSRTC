@@ -1,4 +1,3 @@
-ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO
 GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
 HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/libjingle_peerconnection" $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/IQKeyboardManager" "${PODS_ROOT}/Headers/Public/NSDictionary-ANDYSafeValue" "${PODS_ROOT}/Headers/Public/Toast" "${PODS_ROOT}/Headers/Public/libjingle_peerconnection"
 LIBRARY_SEARCH_PATHS = $(inherited) "$(PODS_ROOT)/libjingle_peerconnection" "$PODS_CONFIGURATION_BUILD_DIR/IQKeyboardManager" "$PODS_CONFIGURATION_BUILD_DIR/NSDictionary-ANDYSafeValue" "$PODS_CONFIGURATION_BUILD_DIR/Toast" $(inherited) "${PODS_ROOT}/libjingle_peerconnection/libjingle_peerconnection"

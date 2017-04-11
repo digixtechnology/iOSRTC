@@ -1,0 +1,21 @@
+PODS:
+  - IQKeyboardManager (4.0.8)
+  - libjingle_peerconnection (11177.2.0)
+  - NSDictionary-ANDYSafeValue (0.3.1)
+  - Toast (3.1.0)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - libjingle_peerconnection
+  - NSDictionary-ANDYSafeValue
+  - Toast
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 1a8189fa153bf09044355ee0ad36826f6767e7f7
+  libjingle_peerconnection: 3458f646ddd61f08a9f3a0c43fb01fff5c165eb8
+  NSDictionary-ANDYSafeValue: 2d7adf339b6e302d71fec5f1d71ae00aacda993e
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+
+PODFILE CHECKSUM: 78e589ae4a2cabf8a432513ed207db607a111502
+
+COCOAPODS: 1.2.0
